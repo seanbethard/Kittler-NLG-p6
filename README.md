@@ -1,2 +1,2 @@
 # Kittler-NLG-p6
-A Raku Perl 6 module for natural language generation.
+A Raku module for natural language generation.

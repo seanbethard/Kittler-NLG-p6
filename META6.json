@@ -1,0 +1,30 @@
+{
+  "name" : "Kittler::NLG",
+  "provides" : {
+    "Kittler::NLG" : "lib/Kittler/NLG.pm6"
+  },
+  "resources": [ "documents/Kittler_Friedrich_Gramophone_Film_Typewriter.pdf"],
+  "license:": "Artistic-2.0"
+}
+
+{
+  "perl" : "6.c",
+  "name" : "Kittler::NLG",
+  "api"  : "1",
+  "auth" : "github:seanbethard",
+  "version" : "0.0.1",
+  "description" : "A Raku module for natural language generation.",
+  "authors" : [ "Sean Bethard" ],
+  "license" : "Artistic-2.0",
+  "provides" : {
+    "Kittler::NLG" : "lib/Kittler/NLG.pm6"
+  },
+  "depends" : [ ],
+  "build-depends" : [ ],
+  "test-depends" : [ ],
+  "resources" : [ ],
+  "tags": [
+    "Kittler", "NLG"
+  ],
+  "source-url" : "https://github.com/seanbethard/Kittler-NLG-p6"
+}
