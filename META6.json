@@ -1,13 +1,4 @@
 {
-  "name" : "Kittler::NLG",
-  "provides" : {
-    "Kittler::NLG" : "lib/Kittler/NLG.pm6"
-  },
-  "resources": [ "documents/Kittler_Friedrich_Gramophone_Film_Typewriter.pdf"],
-  "license:": "Artistic-2.0"
-}
-
-{
   "perl" : "6.c",
   "name" : "Kittler::NLG",
   "api"  : "1",
@@ -22,7 +13,7 @@
   "depends" : [ ],
   "build-depends" : [ ],
   "test-depends" : [ ],
-  "resources" : [ ],
+  "resources": [ "documents/Kittler_Friedrich_Gramophone_Film_Typewriter.pdf"],
   "tags": [
     "Kittler", "NLG"
   ],

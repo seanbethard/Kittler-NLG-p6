@@ -1,6 +1,6 @@
 # lib/Kittler/NLG.pm6
 
-class NLG::Class {}
+class NLG::Class{}
 
 sub EXPORT {
     %(
